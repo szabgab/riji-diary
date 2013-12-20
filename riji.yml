@@ -1,3 +1,4 @@
 author:   'Gabor Szabo'
 title:    "Perl Maven Riji tutorial"
 site_url: 'http://github.szabgab.com/riji-diary/'
+publish_dir: 'blog'
